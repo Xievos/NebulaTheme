@@ -19,7 +19,7 @@
   --url-color: var(--main-color);
   --undefined: 0;
   --background-image: url('https://i.imgur.com/ksgsqWG.jpg');
-  --background-shading: 51%;
+  --background-shading: 26%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -57,8 +57,8 @@
   --home-position: center;
   --home-size: 45px;
   --channel-unread: #FFFFFF4D;
-  --channel-color: rgb(155,58,58,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-color: rgb(230,250,255,0.77);
+  --muted-color: rgb(100,101,109,0.68);
   --online-color: #35E7D2;
   --idle-color: #BFC5CB;
   --dnd-color: #592883;
